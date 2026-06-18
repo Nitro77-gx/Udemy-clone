@@ -1,16 +1,27 @@
-Udemy — Udemy Clone 🎓
-A pixel-perfect, responsive clone of the Udemy e-learning platform, built from scratch using pure HTML, CSS, and JavaScript.
+# 🎓 Udemey - Udemy Clone
 
-Features
-Responsive navbar with search bar
-Hero banner with promotional card overlay
-Course recommendation grid (4-column layout)
-Topics recommended section
-Multi-section course listings
-Responsive footer with links
-Tech Stack
-HTML5 · CSS3 · JavaScript · VS Code · Live Server
+A pixel-perfect frontend clone of **Udemy**, the popular online 
+learning platform. Built from scratch using pure HTML, CSS, and 
+Font Awesome icons.
 
-What I Learned
-CSS positioning (absolute/relative/z-index)
-Building real-world UI from scratch
+## 🚀 Live Demo
+👉 [Click here to view](https://nitro77-gx.github.io/Udemy-clone/)
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3 (Flexbox, Animations, Media Queries)
+- Font Awesome Icons
+- Google Fonts (Gabarito)
+
+## ✨ Features
+- 📌 Sticky Navigation Bar with search input
+- 🗂️ Category pills with 3D hover animation
+- 🖼️ Hero banner with slide-in card animation
+- 📚 Recommended Courses section with course cards
+- 🏷️ Topics section (Web Dev, React JS, AWS, Docker & more)
+- 🔥 Most Popular Courses section
+- 🛒 My Learning dropdown on hover
+- 📱 Fully Responsive (Mobile & Tablet friendly)
+- 🦶 Footer with links and copyright
+
+## 📂 Project Structure
