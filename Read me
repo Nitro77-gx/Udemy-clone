@@ -1,0 +1,16 @@
+Udemy — Udemy Clone 🎓
+A pixel-perfect, responsive clone of the Udemy e-learning platform, built from scratch using pure HTML, CSS, and JavaScript.
+
+Features
+Responsive navbar with search bar
+Hero banner with promotional card overlay
+Course recommendation grid (4-column layout)
+Topics recommended section
+Multi-section course listings
+Responsive footer with links
+Tech Stack
+HTML5 · CSS3 · JavaScript · VS Code · Live Server
+
+What I Learned
+CSS positioning (absolute/relative/z-index)
+Building real-world UI from scratch
